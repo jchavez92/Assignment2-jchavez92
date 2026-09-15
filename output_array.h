@@ -1,5 +1,4 @@
-//output_array
+//output_array.h
 
-double output_array(int arr[], int arrsize)
-
-
+void arrays_list(int arr[], int arrsize);
+void output_array(int arr[], int arrsize);
